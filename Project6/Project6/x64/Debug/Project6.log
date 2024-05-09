@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\lehyo\Desktop\multi\Project_folder\Project6\Project6\소스.cpp(317,44): error C2065: 'LEARNING_RATE': 선언되지 않은 식별자입니다.
+C:\Users\lehyo\Desktop\multi\Project_folder\Project6\Project6\소스.cpp(324,45): error C2065: 'LEARNING_RATE': 선언되지 않은 식별자입니다.
+C:\Users\lehyo\Desktop\multi\Project_folder\Project6\Project6\소스.cpp(331,43): error C2065: 'LEARNING_RATE': 선언되지 않은 식별자입니다.
